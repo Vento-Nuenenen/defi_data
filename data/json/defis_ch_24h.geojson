@@ -47117,6 +47117,29 @@
 },
 {
   "type": "Feature",
+  "id": "node/8644503017",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus",
+    "description": "links beim Rollstuhleingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde",
+    "wheelchair": "yes",
+    "id": "node/8644503017"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4727204,
+      47.2257945
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/8645174717",
   "properties": {
     "access": "yes",
@@ -60305,29 +60328,6 @@
     "coordinates": [
       7.112393,
       47.305462
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9157256952",
-  "properties": {
-    "access": "yes",
-    "addr:city": "Saint Ursanne",
-    "addr:postcode": "2882",
-    "defibrillator:location": "entrée sud, face collégiale",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "opening_hours": "24/7",
-    "operator": "Fondation RéaJura Cœur",
-    "phone": "+41 79 414 74 11",
-    "id": "node/9157256952"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.1542402,
-      47.3669273
     ]
   }
 },
@@ -118117,6 +118117,31 @@
     "coordinates": [
       8.6137225,
       47.2876243
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12025630369",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Rotweg, Mitteltrakt (Verwaltungs- und Turnhallengebäude)",
+    "description": "an der Aussenwand der Turnhalle ('zürichseits') direkt neben der Eingangstüre ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Oberstufenschule Wädenswil",
+    "phone": "+41 44 783 10 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12025630369"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6686742,
+      47.2269165
     ]
   }
 }
