@@ -21686,13 +21686,12 @@
   "type": "Feature",
   "id": "node/7611640467",
   "properties": {
-    "access": "yes",
-    "defibrillator:location": "Ebene 1; Beim Eingang vom Durchgang in das alte Gebäude",
-    "description": "während den offiziellen Öffnungszeiten",
+    "access": "permit",
+    "defibrillator:location": "Ebene 1;Beim Eingang vom Durchgang in das alte Gebäude",
+    "description": "Zugang nur für Mitarbeitende der Stadt Luzern.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr 07:45-17:00",
     "operator": "Stadt Luzern",
     "id": "node/7611640467"
   },
@@ -24159,24 +24158,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/7637818429",
-  "properties": {
-    "description": "Ende September bis Anfang Mai; Im Sommer beim Strandbad.",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "name": "Gemeindehaus",
-    "id": "node/7637818429"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.3368723,
-      46.9792174
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7637818430",
   "properties": {
     "description": "Foyer / Eingangsbereich Turnhalle",
@@ -24197,10 +24178,11 @@
   "type": "Feature",
   "id": "node/7637818432",
   "properties": {
-    "description": "Anfang Mai bis Ende September;\nIm Winter im Gemeindehaus.",
+    "defibrillator:location": "Während der Saison im Badmeisterbüro. \nAusserhalb der Saison im Areal im Aussenkasten beim Altbau.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "name": "Strandbad Stansstad",
+    "operator": "Politische Gemeinde Stansstad",
     "id": "node/7637818432"
   },
   "geometry": {
@@ -41786,8 +41768,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.3425912,
-      47.4928488
+      8.3429322,
+      47.4897656
     ]
   }
 },
@@ -143425,7 +143407,7 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      7.6106022,
+      7.6106023,
       47.4893091
     ]
   }
