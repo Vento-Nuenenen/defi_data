@@ -8364,6 +8364,78 @@
       47.2014699
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12284947102",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Halden Süd",
+    "description": "Beim Eingang Treppenaufgang zur Schulverwaltung",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Stadt Grenchen, Polizeiinspektorat",
+    "phone": "+4132 655 66 98",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12284947102"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.385307,
+      47.1982787
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12285233201",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Haupteingang Aqua Solar AG",
+    "description": "während den Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 08:00-17:00 ",
+    "operator": "Firma",
+    "phone": "+41 61 789 91 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12285233201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5369054,
+      47.3973397
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12285416201",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulstrasse 11, Schulhaus 4, Eingang Turnhalle / Schwimmhalle",
+    "description": "Beim Eingang zur Turnhalle / Schwimmhalle, Für Quartier Schulstrasse ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Stadt Grenchen, Polizeiinspektorat",
+    "phone": "+4132 655 66 98",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12285416201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3927635,
+      47.1929095
+    ]
+  }
 }
 ]
 }
