@@ -21419,6 +21419,7 @@
     "defibrillator:location": "Eingangsbereich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "opening_hours": "24/7",
     "operator": "Altersheim Magda",
     "phone": "+41 33 243 16 72",
@@ -21427,7 +21428,7 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      7.659596,
+      7.659595,
       46.7343367
     ]
   }
@@ -34935,9 +34936,11 @@
   "properties": {
     "access": "permissive",
     "defibrillator:location": "2.UG bei Migros Kundendienst",
+    "description": "Migros Öffnunsgzeiten beachten",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "-2",
     "opening_hours": "Mo-Fr 08:00-20:00, Th 08:00-21:00, Sa 07:30-17:00",
     "operator": "Migros",
     "id": "node/9329484517"
@@ -34945,8 +34948,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      7.6147258,
-      46.7448449
+      7.6147257,
+      46.7448445
     ]
   }
 },
