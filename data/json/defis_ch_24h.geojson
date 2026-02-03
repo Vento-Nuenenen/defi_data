@@ -84345,27 +84345,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/10240188806",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Raiffeisen Bushaltestelle",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "opening_hours": "24/7",
-    "operator": "Feuerwehr Altnau-Güttingen",
-    "phone": "+41 79 381 44 25",
-    "id": "node/10240188806"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.90112,
-      47.48932
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10240188810",
   "properties": {
     "access": "yes",
@@ -148567,6 +148546,26 @@
     "coordinates": [
       8.5153161,
       47.3744814
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13521556301",
+  "properties": {
+    "defibrillator:location": "Schulhaus Breiti, zwischen Bibliothek und Eingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde",
+    "id": "node/13521556301"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6131879,
+      47.2883179
     ]
   }
 }
