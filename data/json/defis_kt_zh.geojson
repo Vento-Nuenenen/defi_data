@@ -75952,6 +75952,7 @@
   "type": "Feature",
   "id": "node/13521556301",
   "properties": {
+    "access": "yes",
     "defibrillator:location": "Schulhaus Breiti, zwischen Bibliothek und Eingang",
     "emergency": "defibrillator",
     "emergency:phone": "144",
