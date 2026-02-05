@@ -97645,6 +97645,30 @@
       47.371668
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13526605101",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Vorfaplast AG beim Eingang",
+    "description": "Während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 07:00-16:00",
+    "operator": "Vorfaplast AG",
+    "phone": "+41442112020",
+    "id": "node/13526605101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5200727,
+      47.4619421
+    ]
+  }
 }
 ]
 }
