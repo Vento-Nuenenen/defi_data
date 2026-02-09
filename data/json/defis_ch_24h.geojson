@@ -28834,29 +28834,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/7637819093",
-  "properties": {
-    "access": "private",
-    "defibrillator:location": "Gewerbezone 82, 6018 Buttisholz",
-    "description": "Haupteingang / Empfang",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "name": "Beck Konzept AG",
-    "opening_hours": "24/7",
-    "operator": "Beck Konzept AG",
-    "id": "node/7637819093"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.0781128,
-      47.1133914
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7637819095",
   "properties": {
     "access": "yes",
