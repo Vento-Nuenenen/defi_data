@@ -25616,9 +25616,11 @@
   "id": "node/7637812571",
   "properties": {
     "access": "yes",
+    "defibrillator:location": "aussen beim Ticket-Schalter",
     "description": "Nordseite Stationsgebäude",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "name": "Schiffstation SGV",
     "opening_hours": "24/7",
     "id": "node/7637812571"
@@ -36238,6 +36240,26 @@
     "coordinates": [
       7.9221712,
       47.5084578
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8012536543",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Beim Eingang der Isofloc, neben Velothek AG",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "id": "node/8012536543"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0763083,
+      47.3563963
     ]
   }
 },
