@@ -36018,6 +36018,28 @@
       47.158267
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13638565128",
+  "properties": {
+    "defibrillator:location": "Hauptniederlassung Aldi Suisse",
+    "description": "Während Öffnungszeiten zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "4",
+    "opening_hours": "Mo - Fr 8:00 - 17:30",
+    "operator": "Geschäft",
+    "id": "node/13638565128"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0669003,
+      47.4476681
+    ]
+  }
 }
 ]
 }
